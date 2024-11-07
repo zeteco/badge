@@ -58,7 +58,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "net_conflict|243920000|55770000|00000000-0000-0000-0000-00005941ca0e|00000000-0000-0000-0000-000000000000",
+        "starved_thermal|182626000|85598000|00000000-0000-0000-0000-00005954760c|a1e9cd7a-c66b-4910-a5ac-0a6faee4a403|B.Cu"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
