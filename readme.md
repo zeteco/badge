@@ -1,5 +1,6 @@
 # ZeTeCo-Badge
-These are the PCB-Files ([KiCad](http://kicad-pcb.org/)) of the Badge for the [ZeTeCo-Camp](http://kicad-pcb.org/) .
+
+These are the PCB-Files ([KiCad](https://www.kicad.org/)) of the Badge for the [ZeTeCo-Camp](https://zeteco.ch/). The original design was made by [@bluetonyum](https://github.com/bluetonyum).
 
 Please also visit the [Wiki-Page](https://wiki.zeteco.ch/wiki/Badge)
 
